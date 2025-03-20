@@ -29,3 +29,5 @@ This project involved creating detailed API documentation for a RESTful web serv
 ## View the Project
 
 You can view the full API documentation [here](https://github.com/username/api-documentation-sample).
+
+[Home](../index.md)
