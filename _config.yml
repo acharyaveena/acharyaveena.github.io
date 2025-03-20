@@ -1,1 +1,6 @@
+title: Veena Acharya's Technical Writing Portfolio
+description: A portfolio showcasing the technical writing work of Veena Acharya.
 theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
