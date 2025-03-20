@@ -24,3 +24,9 @@ Here are some of the projects I have worked on:
 **Description:** A series of tutorials for a data science library.
 
 **Link:** [Read more](projects/project-three.md)
+
+## API Documentation Sample
+
+**Description:** A comprehensive API documentation project for a RESTful web service.
+
+**Link:** [Read more](projects/api-documentation-sample.md)
