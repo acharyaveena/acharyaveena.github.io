@@ -1,6 +1,6 @@
 # Veena Acharya's Technical Portfolio
 
-Welcome to my technical portfolio repository! This site is built with GitHub Pages and Jekyll to showcase my technical writing projects, API documentation, and other content. Explore the site live at [veena-acharya.github.io](https://veena-acharya.github.io).
+Welcome to my technical portfolio repository! This site is built with GitHub Pages and Jekyll to showcase my technical writing projects, API documentation, and other content. Explore the site live at [acharyaveena.github.io](https://acharyaveena.github.io).
 
 ---
 
@@ -15,6 +15,7 @@ Welcome to my technical portfolio repository! This site is built with GitHub Pag
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Support](#support)
 
 ---
 
