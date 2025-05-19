@@ -28,6 +28,6 @@ This project involved creating detailed API documentation for a RESTful web serv
 
 ## View the Project
 
-You can view the full API documentation [here](https://github.com/acharyaveena/acharyaveena.github.io/edit/main/projects/api-documentation-sample.md).
+You can view the full API documentation [here](https://github.com/acharyaveena/acharyaveena.github.io/blob/main/projects/api-documentation-sample.md).
 
 [Home](../index.md)
