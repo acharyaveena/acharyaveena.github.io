@@ -11,7 +11,7 @@ Welcome to my technical writing portfolio! Here you'll find examples of my work,
 
 - [Project One](projects/project-one.md)
 - [Project Two](projects/project-two.md)
-- [Project Three](projects/project-three.md)
+- [Feature Guide](projects/jira-feature-guide)
 - [API Documentation](projects/api-documentation-sample.md)
 
 ## About Me
