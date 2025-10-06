@@ -10,7 +10,7 @@ Welcome to my technical writing portfolio! Here you'll find examples of my work,
 ## Featured Projects
 
 - [Project One](projects/project-one.md)
-- [Project Two](projects/project-two.md)
+- [Concept Topic](projects/ddlc-concept-topic.md)
 - [Feature Guide](projects/jira-feature-guide.md)
 - [API Documentation](projects/api-documentation-sample.md)
 

@@ -3,9 +3,7 @@
 
 # Feature Guide: Managing Tasks and Issues in Jira
 
-
 ## Copyright
-
 
 ## Table of Contents
 
