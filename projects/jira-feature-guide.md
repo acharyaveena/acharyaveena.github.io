@@ -3,6 +3,9 @@
  <a href="jira-feature-guide.md">Feature Guide</a> &gt;
 </span>
 
+  [Home](../index.md) &gt;
+  [Feature Guide](#feature-guide-managing-tasks-and-issues-in-jira)
+
 # Feature Guide: Managing Tasks and Issues in Jira
 
 
