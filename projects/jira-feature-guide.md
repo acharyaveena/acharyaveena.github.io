@@ -1,3 +1,8 @@
+<span class="breadcrumbs">
+<a href="../index.md">Home</a> &gt;
+ <a href="jira-feature-guide.md">Feature Guide</a> &gt;
+</span>
+
 # Feature Guide: Managing Tasks and Issues in Jira
 
 
