@@ -1,48 +1,40 @@
-Feature Guide: Managing Tasks and Issues in Jira
-================================================
+# Feature Guide: Managing Tasks and Issues in Jira
 
-Copyright
-=========
 
-Table of Contents
-=================
+## Copyright
 
-- [Introduction](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.cpu4nirbd8d)
 
-    - [Task Lifecycle](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.s2vufasyq0ru)
+## Table of Contents
 
-- [Prerequisites](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.wo4o3lc34xuf)
+- [Feature Guide: Managing Tasks and Issues in Jira](#feature-guide-managing-tasks-and-issues-in-jira)
+  - [Copyright](#copyright)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Task Lifecycle](#task-lifecycle)
+  - [Prerequisites](#prerequisites)
+  - [Managing Jira Tasks](#managing-jira-tasks)
+    - [Creating a Task](#creating-a-task)
+    - [Assigning a Task](#assigning-a-task)
+    - [Closing a Task](#closing-a-task)
+    - [Viewing a Task](#viewing-a-task)
+  - [FAQs](#faqs)
+  - [Troubleshooting](#troubleshooting)
 
-- [Managing Jira Tasks](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.8f3vw9xxtkae)
+## Introduction
 
-    - [Creating a Jira Task](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.zdxsx5r7mh83)
-
-    - [Assigning a Jira Task](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.riijjau11xm5)
-
-    - [Closing a Jira Task](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.bnzv68ro3vo1)
-
-    - [Viewing a Jira Task](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.2ihdbfiunnj8)
-
-- [FAQs](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.3swytr57l83k)
-
-- [Troubleshooting](https://docs.google.com/document/d/1oJTfy8zn9XYpOIILBTted2fQOhkdUOid/edit#heading=h.i4a6kox4v5ed)
-
-Introduction
-============
 
 Jira Software by Atlassian is a leading tool for task and issue tracking, and Agile project management. Tasks are the basic building blocks for managing work within a project. They represent individual units of work that you need to track, assign, and complete. Jira supports various issue types, such as tasks, bugs, stories, and epics, allowing teams to tailor the system to their specific needs.
 
 This guide provides an overview of Jira’s task management features, with instructions to create, assign, view, and close work items.
 
-Task Lifecycle
+### Task Lifecycle
 --------------
 
 The Jira task lifecycle, shown below, represents the different stages a task goes through from creation to completion. Understanding this lifecycle helps the team with effective projects.
 
 ![Jira Task Flow](../assets/images/JiraTasks.png)
 
-Prerequisites
-=============
+## Prerequisites
 
 Before you start working with Jira tasks, ensure you have:
 
@@ -50,12 +42,11 @@ Before you start working with Jira tasks, ensure you have:
 
 - Access to the Jira project that you are working on
 
-Managing Jira Tasks
-===================
+## Managing Jira Tasks
 
 This section describes the actions you can perform on Jira tasks.
 
-Creating a Task
+### Creating a Task
 ---------------
 
 You can create a new task and configure it with necessary details.
@@ -96,7 +87,7 @@ For creating a new task,
 
 5. Click the **Create** button.
 
-Assigning a Task
+### Assigning a Task
 ----------------
 
 You can assign a task to a specific team member to maintain clear ownership of work items.
@@ -113,8 +104,8 @@ For assigning a task,
 
 5. This will assign the task to the selected person.
 
-Closing a Task
---------------
+### Closing a Task
+------------------
 
 You can close a Jira task once it is complete.
 
@@ -126,8 +117,8 @@ For closing a task,
 
 3. Change the status to **Done**.  
 
-Viewing a Task
---------------
+### Viewing a Task
+------------------
 
 You can use Jira’s filter and search options to view Jira tasks.
 
@@ -153,12 +144,10 @@ For viewing a task,
 
 3. Click on a task to see all the details.
 
-FAQs
-====
+## FAQs
 
 Q: Can I re-open a task after it is closed?
 
 A: Yes, you can change the status back to **To Do** or **In Progress**.
 
-Troubleshooting
-===============
+## Troubleshooting
