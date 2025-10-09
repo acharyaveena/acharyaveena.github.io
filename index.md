@@ -9,15 +9,15 @@ Welcome to my technical writing portfolio! Here you'll find examples of my work,
 
 ## Featured Projects
 
-- [Project One](projects/project-one.md)
-- [User Guide](projects/whatsapp-user-guide.md)
 - [Concept Topic](projects/ddlc-concept-topic.md)
+- [User Guide](projects/whatsapp-user-guide.md)
 - [Feature Guide](projects/jira-feature-guide.md)
 - [API Documentation](projects/api-documentation-sample.md)
 
 ## About Me
 
-I am a passionate technical writer with experience in creating clear and concise documentation for various technologies. [Learn more about me](about.md).
+I am a passionate technical writer with experience in creating clear and concise documentation for various technologies.
+[Learn more about me](about.md).
 
 ## Contact
 

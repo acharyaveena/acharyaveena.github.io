@@ -61,11 +61,10 @@ This section gives an overview of the available UI features in WhatsApp.
 
 5. **Settings** – The **Settings** tab helps you manage your account, privacy and notification settings.
 
-
 Updating WhatsApp Status
 ------------------------
 
-WhatsApp Status allows you to share temporary updates in the form of text, images or videos that disappear after 24 hours. 
+WhatsApp Status allows you to share temporary updates in the form of text, images or videos that disappear after 24 hours.
 
 To update your WhatsApp Status, follow these steps:
 
@@ -78,7 +77,6 @@ To update your WhatsApp Status, follow these steps:
 4. Select **Add a Caption** to optionally add text.
 
 5. Select the **Send** icon to post your status.
-
 
 Based on your privacy settings, your contacts can view your status for 24 hours. You can monitor who viewed and reacted to your status. You can optionally delete the status if you desire.
 

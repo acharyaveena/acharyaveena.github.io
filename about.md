@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-[Home](../index.md) &gt;
+[Home](index.md) &gt;
   [About Me](#about-me)
 
 # About Me
