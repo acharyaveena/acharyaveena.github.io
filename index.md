@@ -12,6 +12,7 @@ Welcome to my technical writing portfolio! Here you'll find examples of my work,
 - [Concept Topic](projects/ddlc-concept-topic.md)
 - [User Guide](projects/whatsapp-user-guide.md)
 - [Feature Guide](projects/jira-feature-guide.md)
+- [Quick Start Guide](projects/facebook-quick-start-guide.md)
 - [API Documentation](projects/api-documentation-sample.md)
 
 ## About Me

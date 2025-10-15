@@ -1,14 +1,15 @@
-[Home](../index.md) &gt;
-  [DDLC Concept Topic](#document-development-lifecycle-ddlc)
-
 Document Development Lifecycle (DDLC)
 =====================================
 
-The Document Development Lifecycle (DDLC) is a structured approach to planning, creating, reviewing, and maintaining documentation.
-Just like software development follows Software Development Lifecycle (SDLC), the DDLC ensures that documentation is accurate, up-to-date, and meets the needs of its intended audience.
+[Home](../index.md) &gt; [DDLC Concept Topic](#document-development-lifecycle-ddlc)
 
-Phases in DDLC
---------------
+The Document Development Lifecycle (DDLC) is a structured approach to planning, creating, reviewing,
+and maintaining documentation.
+Just like software development follows Software Development Lifecycle (SDLC), the DDLC follows the
+Document Development Lifecycle. It ensures that documentation is accurate, up-to-date, and meets the
+needs of its intended audience.
+
+**Phases in DDLC**
 
 The DDLC includes below phases:
 
@@ -37,3 +38,4 @@ The DDLC includes below phases:
     - Ensure hyperlinks are valid.
     - Make sure that no 404 or 500 errors show up in the document.
   
+**Benefits**
