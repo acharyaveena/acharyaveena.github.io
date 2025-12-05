@@ -1,33 +1,54 @@
 ---
 layout: default
-title: API Documentation Sample
+title: Catty API Documentation
 ---
-  [Home](../index.md) &gt;
-  [API Documentation](#api-documentation-sample)
+[Home](../index.md) &gt;
+[Catty API Documentation](#catty-api-documentation)
 
-# API Documentation Sample
+# Catty API documentation sample
 
-**Description:** A comprehensive API documentation project for a RESTful web service.
+**Description:** a RESTful API for managing cat food products and recommendations.
 
 ## Overview
 
-This project involved creating detailed API documentation for a RESTful web service that provides various endpoints for managing user data. The documentation includes endpoint descriptions, request and response formats, and example code snippets.
+The Catty API provides endpoints for discovering and managing cat food products.
+The Technical Writer and Subject Matter Expert collaborated to create this comprehensive API
+documentation as part of a project.
 
 ## Key Features
 
-- Clear and concise endpoint descriptions
-- Request and response formats with examples
+- Complete REST API reference (GET, POST, PUT, PATCH, DELETE)
+- Interactive Quick Start guide
+- Step-by-step tutorials for common use cases
 - Authentication and authorization details
-- Error handling and status codes
-- Example code snippets in multiple programming languages
+- Error handling and troubleshooting guide
+- Code examples in various languages (curl, Python, JavaScript)
+
+## Documentation Sections
+
+- **Overview:** Introduction to the Catty API and its value proposition
+- **Quick Start:** Get started with your first API call in under 5 minutes
+- **API Reference:** Complete documentation of all endpoints
+- **Tutorials:** Step-by-step guides for common workflows
+- **Authentication:** How to authenticate and manage API keys
 
 ## Technologies Used
 
 - Markdown
-- Swagger/OpenAPI
-- Postman
-- HTML/CSS
+- GitHub Pages
+- JSON Server (for test data)
+- Postman (for testing)
+- Git/GitHub (version control and collaboration)
 
-## View the Project
+## View the Documentation
 
-You can view the full API documentation [here](https://github.com/acharyaveena/acharyaveena.github.io/blob/main/projects/api-documentation-sample.md).
+[View the full Catty API documentation →](https://acharyaveena.github.io/catty-service/)
+
+## GitHub Repository
+
+[View the source repository →](https://github.com/acharyaveena/catty-service)
+
+## Project Role
+
+**Technical Writer** - Owned the documentation repository, created the information architecture,
+wrote all documentation content, and managed the review process with the Subject Matter Expert.
