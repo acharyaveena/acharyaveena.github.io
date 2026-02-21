@@ -2,12 +2,10 @@
 layout: default
 title: Catty API Documentation
 ---
-[Home](../index.md) &gt;
-[Catty API Documentation](#catty-api-documentation)
 
-# Catty API documentation sample
+# Catty API Documentation
 
-**Description:** a RESTful API for managing cat food products and recommendations.
+**Description:** A comprehensive RESTful API for managing cat food products and recommendations.
 
 ## Overview
 

@@ -1,21 +1,7 @@
-# Quick Start Guide: Creating a Facebook Post
-
-[Home](../index.md) &gt;
-[Quick Start Guide](#quick-start-guide-creating-a-facebook-post)
-
-## Copyright
-
-## Table of Contents
-
-- [Quick Start Guide: Creating a Facebook Post](#quick-start-guide-creating-a-facebook-post)
-  - [Copyright](#copyright)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Prerequisites](#prerequisites)
-  - [Creating a Facebook Post](#creating-a-facebook-post)
-  - [After You Post](#after-you-post)
-  - [FAQs](#faqs)
-  - [Troubleshooting](#troubleshooting)
+---
+layout: page
+title: Quick Start Guide - Creating a Facebook Post
+---
 
 ## Overview
 

@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+// Solarized skin for Minima 2.5.x
+// ================================
+// Adapted from the Solarized color scheme by Ethan Schoonover
+// https://ethanschoonover.com/solarized
+
+// Solarized palette
+$sol-base03:   #002b36;
+$sol-base02:   #073642;
+$sol-base01:   #586e75;
+$sol-base00:   #657b83;
+$sol-base0:    #839496;
+$sol-base1:    #93a1a1;
+$sol-base2:    #eee8d5;
+$sol-base3:    #fdf6e3;
+$sol-yellow:   #b58900;
+$sol-orange:   #cb4b16;
+$sol-red:      #dc322f;
+$sol-magenta:  #d33682;
+$sol-violet:   #6c71c4;
+$sol-blue:     #268bd2;
+$sol-cyan:     #2aa198;
+$sol-green:    #859900;
+
+// Minima 2.5 color variable overrides (Solarized Dark)
+// In Minima 2.5, $brand-color is used for links, so it must be blue.
+$brand-color:           $sol-blue !default;
+
+$text-color:            $sol-base0 !default;
+$background-color:      $sol-base03 !default;
+$code-background-color: $sol-base02 !default;
+
+$border-color-01:       $sol-base02 !default;
+$border-color-02:       $sol-base01 !default;
+$border-color-03:       $sol-base0 !default;
+
+$table-text-color:      $sol-base0 !default;
+$table-zebra-color:     lighten($sol-base03, 4%) !default;
+$table-header-bg-color: $sol-base02 !default;
+$table-header-border:   lighten($sol-base02, 8%) !default;
+$table-border-color:    $sol-base02 !default;
+
+// Grey aliases used by Minima 2.5 internals
+$grey-color:            $sol-base01 !default;
+$grey-color-light:      darken($sol-base01, 10%) !default;
+$grey-color-dark:       $sol-base1 !default;

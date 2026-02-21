@@ -1,25 +1,7 @@
-  [Home](../index.md) &gt;
-  [Feature Guide](#feature-guide-managing-tasks-and-issues-in-jira)
-
-# Feature Guide: Managing Tasks and Issues in Jira
-
-## Copyright
-
-## Table of Contents
-
-- [Feature Guide: Managing Tasks and Issues in Jira](#feature-guide-managing-tasks-and-issues-in-jira)
-  - [Copyright](#copyright)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-    - [Task Lifecycle](#task-lifecycle)
-  - [Prerequisites](#prerequisites)
-  - [Managing Jira Tasks](#managing-jira-tasks)
-    - [Creating a Task](#creating-a-task)
-    - [Assigning a Task](#assigning-a-task)
-    - [Closing a Task](#closing-a-task)
-    - [Viewing a Task](#viewing-a-task)
-  - [FAQs](#faqs)
-  - [Troubleshooting](#troubleshooting)
+---
+layout: page
+title: Feature Guide - Managing Tasks and Issues in Jira
+---
 
 ## Introduction
 

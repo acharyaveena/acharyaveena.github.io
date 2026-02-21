@@ -1,13 +1,21 @@
 ---
-layout: default
+layout: page
 title: Contact
+permalink: /contact/
 ---
 
-# Contact Me
+I'm always interested in discussing documentation challenges, new technologies, or potential collaborations.
 
-I would love to hear from you! Feel free to reach out to me via the following methods:
+---
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile)
+## Get in Touch
 
-I am open to discussing new projects, opportunities, or any questions you may have about my work.
+| Platform | Contact |
+| :--- | :--- |
+| **Email** | [acharya.veena14@gmail.com](mailto:acharya.veena14@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/veenaacharya](https://www.linkedin.com/in/veenaacharya/) |
+| **GitHub** | [github.com/acharyaveena](https://github.com/acharyaveena) |
+
+---
+
+*"Great documentation empowers users to succeed. That's what drives my work every day."*

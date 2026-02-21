@@ -1,6 +1,36 @@
-title: Veena Acharya's Technical Writing Portfolio
-description: A portfolio showcasing the technical writing work of Veena Acharya.
-theme: jekyll-theme-cayman
+title: Veena Acharya | Technical Writer | Software Engineer
+description: Technical Writer Portfolio — API Documentation & Developer Experience
+baseurl: ""
+url: "https://acharyaveena.github.io"
+
+# Theme and Skin
+theme: minima
+minima:
+  skin: solarized
+  social_links:
+    - platform: github
+      user_url: "https://github.com/acharyaveena"
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/veenaacharya/"
+
+# Navigation tabs — listed in order of appearance
+header_pages:
+  - index.md
+  - projects.md
+  - resume.md
+  - about.md
+  - contact.md
+
+# Author info (appears in footer)
+author: Veena Acharya
+email: acharya.veena14@gmail.com
+
+# Markdown settings
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

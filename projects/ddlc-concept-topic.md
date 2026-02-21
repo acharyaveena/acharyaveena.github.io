@@ -1,7 +1,7 @@
-Document Development Lifecycle (DDLC)
-=====================================
-
-[Home](../index.md) &gt; [DDLC Concept Topic](#document-development-lifecycle-ddlc)
+---
+layout: page
+title: Document Development Lifecycle (DDLC)
+---
 
 The Document Development Lifecycle (DDLC) is a structured approach to planning, creating, reviewing,
 and maintaining documentation.

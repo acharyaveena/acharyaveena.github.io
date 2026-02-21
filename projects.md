@@ -1,32 +1,48 @@
 ---
-layout: default
+layout: page
 title: Projects
+permalink: /projects/
 ---
 
-# Projects
+A collection of writing samples showcasing API documentation, user guides, tutorials, and conceptual writing — created using docs-as-code tools and workflows.
 
-Here are some of the projects I have worked on:
+---
 
-## Project One
+## API Documentation
 
-**Description:** A detailed documentation project for a software application.
+### Catty Service API
 
-**Link:** [Read more](projects/project-one.md)
+A comprehensive REST API documentation project for managing cat food products and recommendations.
 
-## Project Two
+| Aspect | Details |
+| :--- | :--- |
+| **Role** | Technical Writer (Lead) |
+| **Collaboration** | Worked with a Subject Matter Expert (SME) |
+| **Deliverables** | Overview, Quick Start, API Reference, Tutorials, Troubleshooting |
 
-**Description:** A comprehensive user guide for a cloud computing platform.
+**Docs-as-Code Workflow:**
+- Written entirely in **Markdown**
+- Version-controlled using **Git** and **GitHub**
+- Published using **GitHub Pages** with **Jekyll**
+- Collaborated via **Pull Requests** and **branch-based reviews**
+- Tested API endpoints using **JSON Server** and **Postman**
 
-**Link:** [Read more](projects/project-two.md)
+[View Live Documentation →](https://acharyaveena.github.io/catty-service/) | [View Source →](https://github.com/acharyaveena/catty-service)
 
-## Project Three
+---
 
-**Description:** A series of tutorials for a data science library.
+## Guides & Tutorials
 
-**Link:** [Read more](projects/project-three.md)
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| [Quick Start Guide](/projects/facebook-quick-start-guide) | Quick Start | Step-by-step guide for creating Facebook posts |
+| [Feature Guide](/projects/jira-feature-guide) | Feature Guide | Comprehensive guide to Jira features and workflows |
+| [User Guide](/projects/whatsapp-user-guide) | User Guide | Complete user guide for WhatsApp messaging |
 
-## API Documentation Sample
+---
 
-**Description:** A comprehensive API documentation project for a RESTful web service.
+## Conceptual Documentation
 
-**Link:** [Read more](projects/api-documentation-sample.md)
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| [Concept Topic](/projects/ddlc-concept-topic) | Concept Topic | Explanatory documentation demonstrating conceptual writing skills |

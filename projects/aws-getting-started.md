@@ -1,6 +1,7 @@
-# Getting Started with AWS Cloud
-
-[Home](../index.md) &gt; [AWS Cloud Guide](#getting-started-with-aws-cloud)
+---
+layout: page
+title: Getting Started with AWS Cloud
+---
 
 ## What is AWS Cloud?
 

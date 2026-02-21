@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Feature Guide - Managing Tasks and Issues in Jira | Veena Acharya Technical Writer Software Engineer</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Feature Guide - Managing Tasks and Issues in Jira" />
+<meta name="author" content="Veena Acharya" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technical Writer Portfolio — API Documentation &amp; Developer Experience" />
+<meta property="og:description" content="Technical Writer Portfolio — API Documentation &amp; Developer Experience" />
+<link rel="canonical" href="http://localhost:4000/projects/jira-feature-guide.html" />
+<meta property="og:url" content="http://localhost:4000/projects/jira-feature-guide.html" />
+<meta property="og:site_name" content="Veena Acharya Technical Writer Software Engineer" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Feature Guide - Managing Tasks and Issues in Jira" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Veena Acharya"},"description":"Technical Writer Portfolio — API Documentation &amp; Developer Experience","headline":"Feature Guide - Managing Tasks and Issues in Jira","url":"http://localhost:4000/projects/jira-feature-guide.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Veena Acharya | Technical Writer | Software Engineer" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Veena Acharya | Technical Writer | Software Engineer</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/projects/">Projects</a><a class="page-link" href="/resume/">Resume</a><a class="page-link" href="/about/">About Me</a><a class="page-link" href="/contact/">Contact</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Feature Guide - Managing Tasks and Issues in Jira</h1>
+  </header>
+
+  <div class="post-content">
+    <h2 id="introduction">Introduction</h2>
+
+<p>Jira Software by Atlassian is a leading tool for task and issue tracking, and Agile project management. Tasks are the basic building blocks for managing work within a project. They represent individual units of work that you need to track, assign, and complete. Jira supports various issue types, such as tasks, bugs, stories, and epics, allowing teams to tailor the system to their specific needs.</p>
+
+<p>This guide provides an overview of Jira’s task management features, with instructions to create, assign, view, and close work items.</p>
+
+<h3 id="task-lifecycle">Task Lifecycle</h3>
+<hr />
+
+<p>The Jira task lifecycle, shown below, represents the different stages a task goes through from creation to completion. Understanding this lifecycle helps the team with effective projects.</p>
+
+<p><img src="../assets/images/JiraTasks.png" alt="Jira Task Flow" /></p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<p>Before you start working with Jira tasks, ensure you have:</p>
+
+<ul>
+  <li>
+    <p>A valid Jira account</p>
+  </li>
+  <li>
+    <p>Access to the Jira project that you are working on</p>
+  </li>
+</ul>
+
+<h2 id="managing-jira-tasks">Managing Jira Tasks</h2>
+
+<p>This section describes the actions you can perform on Jira tasks.</p>
+
+<h3 id="creating-a-task">Creating a Task</h3>
+<hr />
+
+<p>You can create a new task and configure it with necessary details.</p>
+
+<p>For creating a new task,</p>
+
+<ol>
+  <li>
+    <p>On top of the screen, click <strong>+ Create</strong> button.</p>
+  </li>
+  <li>
+    <p> In the <strong>Project</strong> dropdown field, select the correct project.</p>
+  </li>
+  <li>
+    <p>Select the appropriate issue type in the <strong>Work type</strong> dropdown.</p>
+  </li>
+  <li>
+    <p>On the new screen, fill in the required fields:</p>
+
+    <ol>
+      <li>
+        <p><strong>Summary</strong> (Required): A short and precise name for the issue.</p>
+      </li>
+      <li>
+        <p><strong>Assignee</strong>: Name of the person responsible for this task.</p>
+      </li>
+      <li>
+        <p><strong>Labels</strong>: Add labels to identify the task.</p>
+      </li>
+      <li>
+        <p><strong>Parent</strong>: Select the parent task if applicable.</p>
+      </li>
+      <li>
+        <p><strong>Due date</strong>: Expected due date for the task.</p>
+      </li>
+      <li>
+        <p><strong>Team</strong>: Team working on this task.</p>
+      </li>
+      <li>
+        <p><strong>Start date</strong>: Start date for the task.</p>
+      </li>
+      <li>
+        <p><strong>Sprint</strong>: The sprint this task belongs to.</p>
+      </li>
+      <li>
+        <p><strong>Story point estimate</strong>: Story points defined by your team.</p>
+      </li>
+      <li>
+        <p><strong>Reporter</strong> (Required): By default, your name is selected if you create the task.</p>
+      </li>
+      <li>
+        <p><strong>Attachment</strong>: Additional files helpful for this task.</p>
+      </li>
+      <li>
+        <p><strong>Linked Work items</strong>: Related tasks.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Click the <strong>Create</strong> button.</p>
+  </li>
+</ol>
+
+<h3 id="assigning-a-task">Assigning a Task</h3>
+<hr />
+
+<p>You can assign a task to a specific team member to maintain clear ownership of work items.</p>
+
+<p>For assigning a task,</p>
+
+<ol>
+  <li>
+    <p>On the Jira board, open the task you want to assign.</p>
+  </li>
+  <li>
+    <p>Check the <strong>Assignee</strong> field. It shows ‘Unassigned’ if no one is assigned yet.</p>
+  </li>
+  <li>
+    <p>Click the <strong>Assignee</strong> field and start typing the team member’s name.</p>
+  </li>
+  <li>
+    <p>Select the desired person from the list.</p>
+  </li>
+  <li>
+    <p>This will assign the task to the selected person.</p>
+  </li>
+</ol>
+
+<h3 id="closing-a-task">Closing a Task</h3>
+<hr />
+
+<p>You can close a Jira task once it is complete.</p>
+
+<p>For closing a task,</p>
+
+<ol>
+  <li>
+    <p>From the Jira board, open the task.</p>
+  </li>
+  <li>
+    <p>Verify that all the work is done.</p>
+  </li>
+  <li>
+    <p>Change the status to <strong>Done</strong>.  </p>
+  </li>
+</ol>
+
+<h3 id="viewing-a-task">Viewing a Task</h3>
+<hr />
+
+<p>You can use Jira’s filter and search options to view Jira tasks.</p>
+
+<p>For viewing a task,</p>
+
+<ol>
+  <li>
+    <p>Go to the project board.</p>
+  </li>
+  <li>
+    <p>Use the filters to find tasks by:</p>
+
+    <ol>
+      <li>
+        <p><strong>Parent</strong>: Select this option to view tasks as per the parent.</p>
+      </li>
+      <li>
+        <p><strong>Sprint</strong>: Choose this option to view tasks that belong to a specific sprint.</p>
+      </li>
+      <li>
+        <p><strong>Assignee</strong>: Select this option to view tasks assigned to a specific person.</p>
+      </li>
+      <li>
+        <p><strong>Work Type</strong>: Select this option to see tasks by the type of work.</p>
+      </li>
+      <li>
+        <p><strong>Labels</strong>: Select to view tasks by specific labels.</p>
+      </li>
+      <li>
+        <p><strong>Status</strong>: Choose this option to view tasks by their status.</p>
+      </li>
+      <li>
+        <p><strong>Priority</strong>: Select tasks by priority.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Click on a task to see all the details.</p>
+  </li>
+</ol>
+
+<h2 id="faqs">FAQs</h2>
+
+<p>Q: Can I re-open a task after it is closed?</p>
+
+<p>A: Yes, you can change the status back to <strong>To Do</strong> or <strong>In Progress</strong>.</p>
+
+<h2 id="troubleshooting">Troubleshooting</h2>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Veena Acharya | Technical Writer | Software Engineer</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Veena Acharya</li><li><a class="u-email" href="mailto:acharya.veena14@gmail.com">acharya.veena14@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Technical Writer Portfolio — API Documentation &amp; Developer Experience</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

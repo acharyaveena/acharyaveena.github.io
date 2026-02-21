@@ -1,22 +1,7 @@
-  [Home](../index.md) &gt;
-  [User Guide](#whatsapp-user-guide)
-
-# WhatsApp: User Guide
-
-**Version: 1.0**
-
-**Copyright**
-
-**Table of Contents**
-
-- [WhatsApp: User Guide](#whatsapp-user-guide)
-  - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
-  - [Getting Started with WhatsApp](#getting-started-with-whatsapp)
-  - [Exploring WhatsApp User Interface](#exploring-whatsapp-user-interface)
-  - [Updating WhatsApp Status](#updating-whatsapp-status)
-  - [WhatsApp Status Reference Guide](#whatsapp-status-reference-guide)
-  - [Troubleshooting](#troubleshooting)
+---
+layout: page
+title: WhatsApp User Guide
+---
 
 Introduction
 ------------
