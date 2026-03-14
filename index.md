@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Veena Acharya
 nav_title: Home
 ---
 
