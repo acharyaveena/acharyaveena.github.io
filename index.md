@@ -3,10 +3,6 @@ layout: home
 nav_title: Home
 ---
 
-**Technical Writer \| Documentation Engineer \| Software Engineer**
-
----
-
 I create clear, user-focused documentation that helps developers and users succeed. With **10 years of experience as a Full Stack Developer** and **2 years in technical writing**, I bring deep technical expertise to every documentation project.
 
 **What makes my perspective unique:**
