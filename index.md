@@ -3,6 +3,8 @@ layout: home
 nav_title: Home
 ---
 
+<img src="/assets/images/Veena.jpg" alt="Veena Acharya" style="width: 120px; height: 120px; border-radius: 50%; float: right; margin: 0 0 16px 24px;">
+
 I create clear, user-focused documentation that helps developers and users succeed. With **10 years of experience as a Full Stack Developer** and **2 years in technical writing**, I bring deep technical expertise to every documentation project.
 
 **What makes my perspective unique:**
